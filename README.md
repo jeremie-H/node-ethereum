@@ -1,2 +1,2 @@
-# node-ethereum
-init ethereum node
+# node-init
+initialize a node
